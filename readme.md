@@ -9,6 +9,6 @@ Running [blackjack.py](https://github.com/unital/Monte-Carlo-Exploring-Starts/bl
 
 ![](https://github.com/unital/Monte-Carlo-Exploring-Starts/blob/master/soft_total.png)
 
-This strategy is indeed consistant with the tables provided on wikipedia, but for our case we only allow hit and stand.
+This strategy is indeed consistent with the tables provided on wikipedia, but for our case we only allow hit and stand.
 
 https://en.wikipedia.org/wiki/Blackjack
